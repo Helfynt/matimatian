@@ -14,7 +14,8 @@ printf "| )   ( || )  \  |   | |   ___) (___/\____) || )   ( || )  \  |   | |   
 printf "|/     \||/    )_)   )_(   \_______/\_______)|/     \||/    )_)   )_(   (_______/   )_(   \n"
 printf "\n\e[0m"                                                               
 printf "\e[101m::\e[1;77m Pelindung terhadap: DoS, DDoS, UDP/TCP Flood, BruteForcer ::\e[0m\n\n"
- 
+printf "\e[101m::\e[1;77m Coded by: Tn.pennyw1s3 ::\e[0m\n\n"
+  
  
 }
  
